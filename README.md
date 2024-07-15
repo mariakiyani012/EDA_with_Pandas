@@ -46,7 +46,7 @@ This project performs Exploratory Data Analysis (EDA) on two datasets: Pakistan 
 ## **Files**
 
 - `EDA_with_Pandas.ipynb`: Jupyter Notebook containing the EDA code.
-- `population_data.xlsx`: Excel file created from the Pakistan Population CSV dataset.
+- `subdivision_population_data.xlsx`: Excel file created from the Pakistan Population CSV dataset.
 - `README.md`: This file.
 
 
